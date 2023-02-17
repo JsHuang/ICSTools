@@ -13,5 +13,9 @@ EtherNet/IP & CIP Stack Detector that can help both cyber-security researchers, 
 https://github.com/claroty/enip-stack-detector
 
 - Digital Bond's ICS Enumeration Tools  
-Redpoint是一个旨在枚举ICS应用和设备的研究项目 
+Redpoint是一个旨在枚举ICS应用和设备的研究项目  
 https://github.com/digitalbond/Redpoint
+
+- mutiny Fuzzer   
+利用流量嗅探进行Fuzz的工具   
+https://github.com/Cisco-Talos/mutiny-fuzzer  
