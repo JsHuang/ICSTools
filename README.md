@@ -16,7 +16,7 @@ https://github.com/claroty/enip-stack-detector
 Redpoint是一个旨在枚举ICS应用和设备的研究项目  
 https://github.com/digitalbond/Redpoint
 
-- **WdbDBG** 
+- **WdbDBG**  
 This python 2 framework is meant to monitor a x86 (32bits only) VxWorks target while fuzzing it. It uses the WDB RPC protocol in order to know whether the target has crashed, then try to get more information on the crash context: 
 
   - registers state   
